@@ -4,5 +4,5 @@ namespace hohoho{
 public class Hello{
 
 }
-Console.WriteLine("Hello World");
+Console.WriteLine("Hallo Wereld");
 }
